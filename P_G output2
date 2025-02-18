@@ -1,0 +1,17 @@
+Enter the minimum password length: 
+15
+Enter the maximum password length: 
+22
+Include lowercase letters? (y/n): 
+y
+Include uppercase letters? (y/n): 
+y
+Include numbers? (y/n): 
+n
+Include symbols? (y/n): 
+n
+Generated Password: lOHUtUdkpuhFAVYAzhc
+Password Strength: 2/4
+
+
+** Process exited - Return Code: 0 **
