@@ -1,0 +1,17 @@
+Enter the minimum password length: 
+18
+Enter the maximum password length: 
+25
+Include lowercase letters? (y/n): 
+y
+Include uppercase letters? (y/n): 
+n
+Include numbers? (y/n): 
+y
+Include symbols? (y/n): 
+n
+Generated Password: vzb6kis6a1t8wgx9g4ejn
+Password Strength: 2/4
+
+
+** Process exited - Return Code: 0 **
